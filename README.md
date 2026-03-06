@@ -178,12 +178,13 @@ All data is stored in plain text files using `|` as a delimiter:
 
 | Name | Role |
 |---|---|
-| *(Your Name)* | Developer |
+| Kashaf Akmal | Developer |
 
 ---
 
 ## 📄 License
 
 This project is for educational purposes. Feel free to fork and build on it!
+
 
 
